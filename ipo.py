@@ -58,8 +58,7 @@ def main():
     try:
         last_20_ipo = fetch_latest_ipo()
     except Exception as err:
-        print(err)
-        return
+        raise Exception('API changed.')
 
     # Read the list of IPO already seen in the last run
     with open(SAVED_DATA_PATH, 'r') as ipo_file:
