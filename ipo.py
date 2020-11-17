@@ -12,7 +12,7 @@ current_dir = Path(__file__).parent.resolve()
 SAVED_DATA_PATH = current_dir / 'ipo.json'
 
 
-def add_task(task_content: str, date: str):
+def add_task(task_content: str, date: str, priority:int=4):
     """
     Add a new task to todoist.
 
@@ -21,7 +21,7 @@ def add_task(task_content: str, date: str):
     """
     api = TodoistAPI(TODOIST_APIKEY)
     api.sync()
-    api.add_item(task_content, date_string=date)
+    api.add_item(task_content, date_string=date, priority=priority)
     api.commit()
 
 
