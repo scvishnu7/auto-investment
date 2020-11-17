@@ -10,18 +10,23 @@ from todoist.api import TodoistAPI
 TODOIST_APIKEY = os.environ['TODOIST_APIKEY']
 current_dir = Path(__file__).parent.resolve()
 SAVED_DATA_PATH = current_dir / 'ipo.json'
+INVESTMENT_SECTION_ID = 25482920
 
 
-def add_task(task_content: str, date: str, priority:int=4):
+def add_task(task_content: str, date: str, priority: int = 4):
     """
     Add a new task to todoist.
 
+    :param priority: Priority of the task
     :param task_content: Task description
     :param date: Due date for task
     """
     api = TodoistAPI(TODOIST_APIKEY)
     api.sync()
-    api.add_item(task_content, date_string=date, priority=priority)
+    api.add_item(task_content,
+                 date_string=date,
+                 priority=priority,
+                 section_id=INVESTMENT_SECTION_ID)
     api.commit()
 
 
