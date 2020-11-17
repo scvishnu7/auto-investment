@@ -23,10 +23,10 @@ def add_task(task_content: str, date: str, priority: int = 4):
     """
     api = TodoistAPI(TODOIST_APIKEY)
     api.sync()
-    api.add_item(task_content,
-                 date_string=date,
-                 priority=priority,
-                 section_id=INVESTMENT_SECTION_ID)
+    api.items.add(task_content,
+                  date_string=date,
+                  priority=priority,
+                  section_id=INVESTMENT_SECTION_ID)
     api.commit()
 
 
