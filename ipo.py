@@ -46,7 +46,7 @@ def fetch_latest_ipo() -> List[Dict]:
         'Referer': 'http://www.nepalipaisa.com/Investment-Opportunities.aspx',
         'DNT': '1',
     }
-    url = 'http://www.nepalipaisa.com/Modules/Investment/webservices/InvestmentService.asmx/GetAllInvestmentInfobyCategoryID'
+    url = 'https://www.nepalipaisa.com/Modules/Investment/webservices/InvestmentService.asmx/GetAllInvestmentInfobyCategoryID'
     response = requests.post(url, headers=headers, data=data)
     raw_ipo_details = response.json()['d']
     last_20_ipo = []
