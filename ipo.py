@@ -80,7 +80,7 @@ def main():
 
     # Overwrite with latest 20 IPO
     with open(SAVED_DATA_PATH, 'w') as outfile:
-        json.dump(last_20_ipo, outfile)
+        json.dump(last_20_ipo, outfile, indent=2)
 
 
 if __name__ == '__main__':
