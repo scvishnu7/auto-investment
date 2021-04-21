@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "CEDB Hydropower Development Company Limited",
+    "start_date": "2021-04-30",
+    "end_date": "2021-05-04",
+    "share_type": "IPO:23,41,954 Units"
+  },
+  {
     "company_name": "Ru Ru Jalvidyut Pariyojana Limited",
     "start_date": "2021-04-02",
     "end_date": "2021-04-06",
@@ -100,17 +106,5 @@
     "start_date": "2020-08-20",
     "end_date": "2020-08-24",
     "share_type": "IPO:56,70,000 Units"
-  },
-  {
-    "company_name": "Liberty Energy Company Limited",
-    "start_date": "2020-08-19",
-    "end_date": "2020-08-23",
-    "share_type": "IPO:35,64,930 Units"
-  },
-  {
-    "company_name": "Liberty Energy Company Limited",
-    "start_date": "2020-07-22",
-    "end_date": "2020-08-05",
-    "share_type": "IPo to local residents of Lamjung district:15,00,000 Units"
   }
 ]
