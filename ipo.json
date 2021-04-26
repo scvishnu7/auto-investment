@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
+    "start_date": "2021-05-04",
+    "end_date": "2021-06-07",
+    "share_type": "IPO for Locals:42,00,000 Units"
+  },
+  {
     "company_name": "CEDB Hydropower Development Company Limited",
     "start_date": "2021-04-30",
     "end_date": "2021-05-04",
@@ -94,12 +100,6 @@
     "start_date": "2020-09-16",
     "end_date": "2020-10-15",
     "share_type": "IPO fro Locals:19,68,027 Units"
-  },
-  {
-    "company_name": "Samaj Laghubitta Bittiya Sanstha Limited",
-    "start_date": "2020-08-20",
-    "end_date": "2020-08-24",
-    "share_type": "IPO:80,700"
   },
   {
     "company_name": "Reliance Life Insurance Limited",
