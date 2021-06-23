@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
+    "start_date": "2021-07-01",
+    "end_date": "2021-07-05",
+    "share_type": "IPO:3,63,492 Units"
+  },
+  {
     "company_name": "Jeevan Bikas Laghubitta Bittiya Sanstha Limited",
     "start_date": "2021-06-25",
     "end_date": "2021-06-29",
@@ -100,11 +106,5 @@
     "start_date": "2020-09-23",
     "end_date": "2020-10-22",
     "share_type": "IPO for Locals:4,20,000 Units"
-  },
-  {
-    "company_name": "Mountain Energy Nepal Limited",
-    "start_date": "2020-09-16",
-    "end_date": "2020-10-15",
-    "share_type": "IPO fro Locals:19,68,027 Units"
   }
 ]
