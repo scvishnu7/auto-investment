@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Union Life Insurance Company Limited",
+    "start_date": "2021-07-08",
+    "end_date": "2021-07-12",
+    "share_type": "IPO:58,05,000 Units"
+  },
+  {
     "company_name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
     "start_date": "2021-07-01",
     "end_date": "2021-07-05",
@@ -100,11 +106,5 @@
     "start_date": "2020-09-27",
     "end_date": "2020-09-30",
     "share_type": "IPO:27,30,000 Units"
-  },
-  {
-    "company_name": "United Idi Mardi and RB Hydropower Limited",
-    "start_date": "2020-09-23",
-    "end_date": "2020-10-22",
-    "share_type": "IPO for Locals:4,20,000 Units"
   }
 ]
