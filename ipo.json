@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Terhathum Power Company Limited",
+    "start_date": "2021-07-20",
+    "end_date": "2021-08-03",
+    "share_type": "IPO:4,00,000 Units"
+  },
+  {
     "company_name": "Union Life Insurance Company Limited",
     "start_date": "2021-07-08",
     "end_date": "2021-07-12",
@@ -99,12 +105,6 @@
     "company_name": "Sanima General Insurance Company limited",
     "start_date": "2020-10-07",
     "end_date": "2020-10-11",
-    "share_type": "IPO:27,30,000 Units"
-  },
-  {
-    "company_name": "General Insurance Company Nepal Limited",
-    "start_date": "2020-09-27",
-    "end_date": "2020-09-30",
     "share_type": "IPO:27,30,000 Units"
   }
 ]
