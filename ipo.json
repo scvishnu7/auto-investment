@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Mailung Khola Jalvidhyut Company Limited",
+    "start_date": "2021-07-29",
+    "end_date": "2021-08-02",
+    "share_type": "IPO:6,84,746 Units"
+  },
+  {
     "company_name": "Terhathum Power Company Limited",
     "start_date": "2021-07-20",
     "end_date": "2021-08-03",
@@ -106,11 +112,5 @@
     "start_date": "2020-11-11",
     "end_date": "2020-11-18",
     "share_type": "IPO:18,30,265 Units"
-  },
-  {
-    "company_name": "Sanima General Insurance Company limited",
-    "start_date": "2020-10-07",
-    "end_date": "2020-10-11",
-    "share_type": "IPO:27,30,000 Units"
   }
 ]
