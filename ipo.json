@@ -1,5 +1,17 @@
 [
   {
+    "company_name": "Manushi Laghubitta Bittiya Sanstha Limited",
+    "start_date": "2021-08-11",
+    "end_date": "2021-08-15",
+    "share_type": "IPO:3,68,593 Units"
+  },
+  {
+    "company_name": "Sanima Life Insurance Company Limited",
+    "start_date": "2021-08-04",
+    "end_date": "2021-08-08",
+    "share_type": "IPO:54,00,000 Units"
+  },
+  {
     "company_name": "Mailung Khola Jalvidhyut Company Limited",
     "start_date": "2021-07-29",
     "end_date": "2021-08-02",
@@ -9,13 +21,13 @@
     "company_name": "Terhathum Power Company Limited",
     "start_date": "2021-07-20",
     "end_date": "2021-08-03",
-    "share_type": "IPO:4,00,000 Units"
+    "share_type": "IPO for Locals:4,00,000 Units"
   },
   {
     "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
     "start_date": "2021-07-20",
     "end_date": "2021-08-01",
-    "share_type": "IPO:60,00,000 Units"
+    "share_type": "IPO for Locals:60,00,000 Units"
   },
   {
     "company_name": "Union Life Insurance Company Limited",
@@ -100,17 +112,5 @@
     "start_date": "2020-12-14",
     "end_date": "2020-12-17",
     "share_type": "IPo:54,00,000 Units"
-  },
-  {
-    "company_name": "United Idi Mardi and RB Hydropower Limited",
-    "start_date": "2020-11-18",
-    "end_date": "2020-11-22",
-    "share_type": "IPO:8,73,910 Units"
-  },
-  {
-    "company_name": "Mountain Energy Nepal Limited",
-    "start_date": "2020-11-11",
-    "end_date": "2020-11-18",
-    "share_type": "IPO:18,30,265 Units"
   }
 ]
