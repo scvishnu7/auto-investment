@@ -6,12 +6,6 @@
     "share_type": "IPO:3,68,593 Units"
   },
   {
-    "company_name": "Samling Power Company Limited",
-    "start_date": "2021-08-06",
-    "end_date": "2021-08-20",
-    "share_type": "IPO for Locals:5,00,000 Units"
-  },
-  {
     "company_name": "Sanima Life Insurance Company Limited",
     "start_date": "2021-08-04",
     "end_date": "2021-08-08",
@@ -112,5 +106,11 @@
     "start_date": "2021-01-15",
     "end_date": "2021-01-19",
     "share_type": "IPO:7,58,40,000 Units"
+  },
+  {
+    "company_name": "Prabhu Life Insurance Company Limited",
+    "start_date": "2020-12-14",
+    "end_date": "2020-12-17",
+    "share_type": "IPo:54,00,000 Units"
   }
 ]
