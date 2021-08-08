@@ -1,5 +1,17 @@
 [
   {
+    "company_name": "Nyadi Hydropower Limited",
+    "start_date": "2021-08-17",
+    "end_date": "2021-08-31",
+    "share_type": "IPO for Locals:15,00,000 Units"
+  },
+  {
+    "company_name": "Buddha Bhumi Nepal Hydropower Company Limited",
+    "start_date": "2021-08-16",
+    "end_date": "2021-08-30",
+    "share_type": "IPO for Locals:4,00,000 Units"
+  },
+  {
     "company_name": "Sahas Urja Limited",
     "start_date": "2021-08-13",
     "end_date": "2021-08-27",
@@ -100,17 +112,5 @@
     "start_date": "2021-02-05",
     "end_date": "2021-02-09",
     "share_type": "IPO:34,96,400 Units"
-  },
-  {
-    "company_name": "Singati Hydro Energy Limited",
-    "start_date": "2021-01-17",
-    "end_date": "2021-02-15",
-    "share_type": "IPO for Locals:14,50,000 Units"
-  },
-  {
-    "company_name": "Nepal Infrastructure Bank Limited",
-    "start_date": "2021-01-15",
-    "end_date": "2021-01-19",
-    "share_type": "IPO:7,58,40,000 Units"
   }
 ]
