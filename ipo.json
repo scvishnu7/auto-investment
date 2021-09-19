@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Buddha Bhumi Nepal Hydropower Company Limited",
+    "start_date": "2021-09-27",
+    "end_date": "2021-09-30",
+    "share_type": "IPO:7,44,000 Units"
+  },
+  {
     "company_name": "Sahas Urja Limited",
     "start_date": "2021-09-22",
     "end_date": "2021-09-26",
@@ -106,11 +112,5 @@
     "start_date": "2021-03-19",
     "end_date": "2021-03-23",
     "share_type": "IPO:26,97,000 Units"
-  },
-  {
-    "company_name": "Jyoti Life Insurance Company Limited",
-    "start_date": "2021-03-05",
-    "end_date": "2021-03-10",
-    "share_type": "IPO:59,40,000 Units"
   }
 ]
