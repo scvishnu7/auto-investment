@@ -1,5 +1,11 @@
 [
   {
+    "company_name": "Madhya Bhotekoshi Jalabidhyut Company Limited",
+    "start_date": "2021-10-06",
+    "end_date": "2021-10-11",
+    "share_type": "IPO:81,90,000 Units"
+  },
+  {
     "company_name": "Nyadi Hydropower Limited",
     "start_date": "2021-10-01",
     "end_date": "2021-10-05",
@@ -106,11 +112,5 @@
     "start_date": "2021-04-30",
     "end_date": "2021-05-04",
     "share_type": "IPO:23,41,954 Units"
-  },
-  {
-    "company_name": "Ru Ru Jalvidyut Pariyojana Limited",
-    "start_date": "2021-04-02",
-    "end_date": "2021-04-06",
-    "share_type": "IPO:3,79,167 Units"
   }
 ]
